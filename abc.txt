@@ -7,3 +7,8 @@ DBMS
 Final Copy
 Done with this version
 
+Hibernate
+Spring
+
+Thank you
+Done
